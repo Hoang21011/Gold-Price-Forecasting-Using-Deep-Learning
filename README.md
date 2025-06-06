@@ -1,5 +1,3 @@
-# Gold-Price-Forecasting-Using-Deep-Learning
-
 # 🪙 Gold Price Forecasting Using RNN Models
 
 ## 📌 Overview
